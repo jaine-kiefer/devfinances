@@ -23,7 +23,20 @@ const transactions = [
         description: 'Luz',
         amount: -50000,
         date: '23/01/2021',
-    }, {}, {}]
+    },
+    {
+        id: 2,
+        description: 'Website',
+        amount: 500000,
+        date: '23/01/2021',
+    },
+    {
+        id: 3,
+        description: 'Internet',
+        amount: -20000,
+        date: '23/01/2021',
+    },
+]
 
 // precisa somar as entradas
 // somar as saídas
@@ -42,3 +55,22 @@ const Transaction = {
         // entradas - saídas
     }
 }
+
+// csubstituir os dados do html com dados do js
+
+const DOM = {
+    innerHTMLTransaction() {
+
+        const html = `    
+        <tr>
+        <td class="description"> Luz</td>
+        <td class="expense">- R$ 500,00</td>
+        <td class="date">23/01/2021</td>
+        <td>
+            <img src="./assets/minus.svg" alt="Remover transação">
+        </td>
+    </tr>`
+
+    }
+}
+
