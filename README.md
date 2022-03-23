@@ -5,5 +5,7 @@ Aplicativo web de finanças desenvolvido na maratona da Rocketseat utilizando HT
 
 Link para visualização: https://jaine-kiefer.github.io/devfinances/
 
+Referências:
+https://www.w3schools.com/html/html5_webstorage.asp
 
 
