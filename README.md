@@ -1,5 +1,9 @@
 <h1 align="center">Aplicativo de Finanças</h1>
 
+<h1 align="center">
+  <img alt="Página Inicial" title="Página Inicial" src="./assets/img.png" />
+</h1>
+
 <p align="center">Link para testar o aplicativo: https://jaine-kiefer.github.io/devfinances/</p>
 
 <p align="center">
