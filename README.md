@@ -1,6 +1,6 @@
-<h1 align="center">Aplicativo de Finaças</h1>
+<h1 align="center">Aplicativo de Finanças</h1>
 
-Link para testar o aplicativo: https://jaine-kiefer.github.io/devfinances/
+<p align="center">Link para testar o aplicativo: https://jaine-kiefer.github.io/devfinances/</p>
 
 <p align="center">
  <a href="#descrição">Descrição</a> •
